@@ -1,0 +1,18 @@
+{
+    "koders": [
+        {
+            "name": "yes",
+            "generacion": 7
+        },
+        {
+            "name": "ana",
+            "generacion": 7
+        }
+    ],
+    "mentors": [
+        {
+            "name": "Israel",
+            "lesson": "Front-end"
+        }
+    ]
+}
